@@ -19,6 +19,8 @@
   <img align="center" alt="Carlos-JavaScript" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
   
+  <strong>Contatos</strong><br>
+  <hr>
   <a href = "mailto:henrimirandaesteves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
  
 <div> 
