@@ -9,6 +9,7 @@
   </div>
   <div style="display: inline_block"><br>
   <h2><strong>Conhecimento de Programação</strong><h2><br>
+  <hr>
   <img align="center" alt="Carlos-c" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Carlos-cpp" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Carlos-Python" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
